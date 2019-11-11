@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-white text-black">
+    <div class="bg-orange-100 text-black">
       <div class="py-2 md:px-32 flex flex-wrap">
         <div class="w-full md:w-1/3">
           <div class="md:py-8 md:px-12 text-left">

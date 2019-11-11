@@ -22,8 +22,8 @@
       </ul>
     </div>
     <div class="mt-4">
-      <i class="fa fa-fw fa-chevron-left" @click="subtractMonth"></i>
-      <i class="fa fa-fw fa-chevron-right" @click="addMonth"></i>
+      <i class="cursor-pointer fa fa-fw fa-chevron-left" @click="subtractMonth"></i>
+      <i class="cursor-pointer fa fa-fw fa-chevron-right" @click="addMonth"></i>
     </div>
   </div>
 </template>
